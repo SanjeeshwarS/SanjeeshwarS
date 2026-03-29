@@ -46,8 +46,8 @@ My dedicated engineering sandbox for developing LLM architectures.
 
 ```text
 Languages    Python · C · C++ · Java
-ML/AI        LangChain · LangGraph · Llama 3.2 · Ollama
-Engineering  ChromaDB · Streamlit · Git
+ML/AI        LangChain · LangGraph · Ollama · Neural Networks
+Engineering  PostgreSQL · Streamlit · Git · 
 Learning     Advanced RAG · Agentic Architecture · Local Inference
 ```
 
