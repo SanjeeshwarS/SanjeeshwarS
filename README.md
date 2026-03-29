@@ -45,13 +45,12 @@ My dedicated engineering sandbox for developing LLM architectures.
 ### Stack
 
 ```text
-Languages    Python · C · C++ · Java
-ML/AI        LangChain · LangGraph · Ollama · Neural Networks
-Engineering  PostgreSQL · Streamlit · Git · 
-Learning     Advanced RAG · Agentic Architecture · Local Inference
+Languages        Python · C · C++ · Java · HTML · CSS
+ML/AI            LangChain · LangGraph · Ollama · Neural Networks · RAG
+Core Theory      Mathematics of Deep Learning · Backpropagation · Optimization
+Web & Frontend   Streamlit
+Engineering      Git · Local Inference 
 ```
-
----
 
 ### Currently
 
