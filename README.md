@@ -49,6 +49,7 @@ Languages    Python · C · C++ · Java
 ML/AI        LangChain · LangGraph · Llama 3.2 · Ollama
 Engineering  ChromaDB · Streamlit · Git
 Learning     Advanced RAG · Agentic Architecture · Local Inference
+```
 
 ---
 
@@ -62,4 +63,4 @@ Learning     Advanced RAG · Agentic Architecture · Local Inference
 
 ### Connect
 
-[LinkedIn](www.linkedin.com/in/s-sanjeeshwar-a03523371) · [Email](sanjeeshwar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/s-sanjeeshwar-a03523371) · [Email](mailto:sanjeeshwar@gmail.com)
