@@ -1,62 +1,42 @@
-### Hi there 👋
-
 # Sanjeeshwar S
 
-CS + AI @ SRM University 
-Building privacy-first AI systems and autonomous agents — entirely on local silicon.
+**CS + AI @ SRM University**  
+Exploring autonomous agent orchestration, LLM architectures, and machine learning.
 
 ---
 
 ### About
 
-I'm a CS student specializing in Artificial Intelligence with a deep focus on advanced retrieval architectures and agentic workflows. My long-term goal is to build robust, functional AI systems that push the boundaries of what open-source, local models can do.
-
-My approach is simple — prioritize privacy, leverage raw models, avoid black-box APIs, and engineer complex LLM orchestrations from the ground up.
+I'm currently focused on learning how to build robust retrieval systems, agentic workflows, and predictive models. I enjoy experimenting with modular AI implementations and exploring new ways to solve problems through hands-on development.
 
 ---
 
-### Projects
+### Technical Stack
 
-**Main Project · *Coming Soon***
-
-Currently architecting a large-scale, privacy-first autonomous AI system. Designing the core pipeline to handle complex, multi-step reasoning without relying on external API calls. More details dropping soon.
-
-`Python` `LangGraph` `Local LLMs` `ChromaDB` `Advanced RAG`
-
----
-
-### Workspaces & Sandboxes
-
-**[Streamlit-MultiQuery-RAG](https://github.com/SanjeeshwarS/Streamlit-MultiQuery-RAG)** A local AI workspace to test querying complex PDF documents.
-* Implements Multi-Query Retrieval to automatically rephrase prompts into 5 distinct perspectives.
-* Built to test local execution using Ollama (Llama 3.2) and LangChain.
-
-`Python` `Llama 3.2` `LangChain` `ChromaDB` `Streamlit`
-
-**[llama-workspace](https://github.com/SanjeeshwarS/llama-workspace)**
-My dedicated engineering sandbox for developing LLM architectures.
-* Testing custom LangChain pipelines for structured output generation.
-* Experimenting with parallel processing chains and sequential routing.
-
-`Python` `Ollama` `LangChain Core` `Agentic Workflows`
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C, C++, Java |
+| **LLM Orchestration** | LangChain (LCEL), LangGraph |
+| **Machine Learning** | Scikit-learn, Predictive Modeling |
+| **Vector Storage** | ChromaDB |
+| **Inference & Ops** | Ollama, UV, Git |
+| **Frontend/UI** | Streamlit |
 
 ---
 
-### Stack
+### Workspaces & Projects
 
-```text
-Languages        Python · C · C++ · Java · HTML · CSS
-ML/AI            LangChain · LangGraph · Ollama · Neural Networks · RAG
-Core Theory      Mathematics of Deep Learning · Backpropagation · Optimization
-Web & Frontend   Streamlit
-Engineering      Git · Local Inference 
-```
+**[LLM-Chain](https://github.com/SanjeeshwarS/llm-chain)**  
+A collection of modular LangChain implementations for building structured workflows and autonomous agents.A dedicated sandbox for experimenting with agentic architectures and LangChain pipelines.
+*   *Stack: Python, LangChain (LCEL), LangChain Core, Ollama, Pydantic, Agentic Workflows*
 
-### Currently
+**[Streamlit-MultiQuery-RAG](https://github.com/SanjeeshwarS/Streamlit-MultiQuery-RAG)**  
+A learning project focused on Multi-Query Retrieval to improve document querying and retrieval accuracy.
+*   *Stack: Python, LangChain, ChromaDB, Streamlit*
 
-* Actively building core LLM pipelines and autonomous agents in parallel
-* Designing the architecture for my upcoming main project
-* Going deep on Multi-Query Retrieval and vector search optimization
+**[ML-Models](https://github.com/SanjeeshwarS/ML-Models)**  
+A repository of machine learning models for classification and predictive analysis, including loan approval and bank note authentication.
+*   *Stack: Python, Scikit-learn, Machine Learning*
 
 ---
 
