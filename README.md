@@ -16,11 +16,11 @@ I'm currently focused on learning how to build robust retrieval systems, agentic
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, C, C++, Java |
-| **LLM Orchestration** | LangChain (LCEL), LangGraph |
+| **LLM Orchestration** | LangChain (LCEL) |
 | **Machine Learning** | Scikit-learn, Predictive Modeling |
 | **Vector Storage** | ChromaDB |
 | **Inference & Ops** | Ollama, UV, Git |
-| **Frontend/UI** | Streamlit |
+| **Frontend/UI** | Streamlit, HTML , CSS , JavaScript |
 
 ---
 
