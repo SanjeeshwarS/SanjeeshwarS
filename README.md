@@ -15,7 +15,7 @@ I'm currently focused on learning how to build robust retrieval systems, agentic
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | Python, C, C++, Java |
+| **Languages** | Python, C, C++ |
 | **LLM Orchestration** | LangChain (LCEL) |
 | **Machine Learning Lib** | Numpy Pandas |
 | **Vector Storage** | ChromaDB |
