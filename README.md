@@ -16,7 +16,7 @@ I'm currently focused on learning how to build robust retrieval systems, agentic
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Python, C, C++ |
-| **LLM Orchestration** | LangChain (LCEL) |
+| **LLM Orchestration** | LangChain (LCEL) Langgraph |
 | **Inference & Ops** | Ollama, UV, Git |
 | **Frontend/UI** | Streamlit, HTML , CSS , JavaScript |
 
